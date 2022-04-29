@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hlibkovalenko
 - 👀 I’m interested in Salesforce
-- 🌱 I’m currently learning Salesforce DX, Sales Cloud, Marketing Cloud etc
-- 💞️ I’m looking to collaborate on Saleforce DX
+- 🌱 I’m currently learning Salesforce, Sales Cloud, Marketing Cloud etc
+- 💞️ I’m looking to collaborate on Saleforce
 - 📫 How to reach me: hlib.kovalenko@clorce.com
 
 <!---
